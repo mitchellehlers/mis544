@@ -1,0 +1,107 @@
+// graph
+digraph {
+	EhlersMitchell [label=EhlersMitchell]
+	sarah_zavoral [label=sarah_zavoral]
+	EhlersMitchell -> sarah_zavoral
+	EhlersMitchell [label=sarah_zavoral]
+	ParisKono [label=ParisKono]
+	sarah_zavoral -> ParisKono
+	HelissaMarmeyer [label=HelissaMarmeyer]
+	sarah_zavoral -> HelissaMarmeyer
+	misskyritsis [label=misskyritsis]
+	sarah_zavoral -> misskyritsis
+	jodilynnvogt [label=jodilynnvogt]
+	sarah_zavoral -> jodilynnvogt
+	ctcoach [label=ctcoach]
+	sarah_zavoral -> ctcoach
+	RandyOnEd [label=RandyOnEd]
+	sarah_zavoral -> RandyOnEd
+	cyclonedaily [label=cyclonedaily]
+	sarah_zavoral -> cyclonedaily
+	gelsasia [label=gelsasia]
+	sarah_zavoral -> gelsasia
+	PonderEducation [label=PonderEducation]
+	sarah_zavoral -> PonderEducation
+	Bored_Teachers [label=Bored_Teachers]
+	sarah_zavoral -> Bored_Teachers
+	CityofWaukee [label=CityofWaukee]
+	sarah_zavoral -> CityofWaukee
+	BBTigerMrsW [label=BBTigerMrsW]
+	sarah_zavoral -> BBTigerMrsW
+	DigitalTrends [label=DigitalTrends]
+	sarah_zavoral -> DigitalTrends
+	wkeck3 [label=wkeck3]
+	sarah_zavoral -> wkeck3
+	MrTaylorSwanson [label=MrTaylorSwanson]
+	sarah_zavoral -> MrTaylorSwanson
+	KammasKersch [label=KammasKersch]
+	sarah_zavoral -> KammasKersch
+	Lagnezmo17 [label=Lagnezmo17]
+	sarah_zavoral -> Lagnezmo17
+	lcalvert426 [label=lcalvert426]
+	sarah_zavoral -> lcalvert426
+	kajeschke [label=kajeschke]
+	sarah_zavoral -> kajeschke
+	MrWerleyWaukee [label=MrWerleyWaukee]
+	sarah_zavoral -> MrWerleyWaukee
+	haleylieber [label=haleylieber]
+	sarah_zavoral -> haleylieber
+	gaulamanda [label=gaulamanda]
+	sarah_zavoral -> gaulamanda
+	dagreiman [label=dagreiman]
+	sarah_zavoral -> dagreiman
+	tbest11 [label=tbest11]
+	sarah_zavoral -> tbest11
+	rbrekke [label=rbrekke]
+	sarah_zavoral -> rbrekke
+	EWhitver [label=EWhitver]
+	sarah_zavoral -> EWhitver
+	mradreier [label=mradreier]
+	sarah_zavoral -> mradreier
+	GBLedu [label=GBLedu]
+	sarah_zavoral -> GBLedu
+	JillVaughn1 [label=JillVaughn1]
+	sarah_zavoral -> JillVaughn1
+	WaukeeSpeech [label=WaukeeSpeech]
+	sarah_zavoral -> WaukeeSpeech
+	Mary_Tess10 [label=Mary_Tess10]
+	sarah_zavoral -> Mary_Tess10
+	gcouros [label=gcouros]
+	sarah_zavoral -> gcouros
+	BWGleason [label=BWGleason]
+	sarah_zavoral -> BWGleason
+	teacher2teacher [label=teacher2teacher]
+	sarah_zavoral -> teacher2teacher
+	ms_lkirkland [label=ms_lkirkland]
+	sarah_zavoral -> ms_lkirkland
+	HeymanShari [label=HeymanShari]
+	sarah_zavoral -> HeymanShari
+	wintermath2005 [label=wintermath2005]
+	sarah_zavoral -> wintermath2005
+	WaukeeAPEX [label=WaukeeAPEX]
+	sarah_zavoral -> WaukeeAPEX
+	brad_hurst [label=brad_hurst]
+	sarah_zavoral -> brad_hurst
+	edu_match [label=edu_match]
+	sarah_zavoral -> edu_match
+	farrelldanielle [label=farrelldanielle]
+	sarah_zavoral -> farrelldanielle
+	MrJorgensenWCSD [label=MrJorgensenWCSD]
+	sarah_zavoral -> MrJorgensenWCSD
+	senorfolsom [label=senorfolsom]
+	sarah_zavoral -> senorfolsom
+	SteegeMorgan [label=SteegeMorgan]
+	sarah_zavoral -> SteegeMorgan
+	kaschweer [label=kaschweer]
+	sarah_zavoral -> kaschweer
+	LeslieDrilling [label=LeslieDrilling]
+	sarah_zavoral -> LeslieDrilling
+	jaugspurger84 [label=jaugspurger84]
+	sarah_zavoral -> jaugspurger84
+	Algreen5thVM [label=Algreen5thVM]
+	sarah_zavoral -> Algreen5thVM
+	Jill_Isley [label=Jill_Isley]
+	sarah_zavoral -> Jill_Isley
+	kausborn [label=kausborn]
+	sarah_zavoral -> kausborn
+}
