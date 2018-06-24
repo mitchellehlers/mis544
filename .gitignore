@@ -1,0 +1,5 @@
+/**/.idea/*
+/**/venv/*
+/**/assignment1-twitter-api.iml
+/**/__pycache__/*
+/**/*.pyc
