@@ -40,7 +40,7 @@ screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay7
 #  step 4 -5   #
 ################
 
-step4.run('merge', screen_names)
+step4.run('merged', screen_names)
 
 ################
 #    step 6    #
