@@ -10,7 +10,7 @@ def run(screen_name, step='step3'):
 
 
 def generate_graphvis_pdf(graph, graphvis_name, step='step3'):
-    dot = Digraph(comment='graph')
+    dot = Digraph(comment='graph', name=graphvis_name)
 
     for key in graph:
         next_screen_name = key

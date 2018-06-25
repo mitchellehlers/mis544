@@ -1,5 +1,5 @@
 // graph
-digraph {
+digraph PrasanthVijay75 {
 	JJMovingForward [label=JJMovingForward]
 	AbbyEGB [label=AbbyEGB]
 	JJMovingForward -> AbbyEGB

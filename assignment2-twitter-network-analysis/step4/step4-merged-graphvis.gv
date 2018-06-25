@@ -1,5 +1,5 @@
 // graph
-digraph {
+digraph merged {
 	KruseTedd [label=KruseTedd]
 	lanawolf88 [label=lanawolf88]
 	juliansamuels11 [label=juliansamuels11]

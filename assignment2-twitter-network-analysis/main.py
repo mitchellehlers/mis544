@@ -31,10 +31,10 @@ screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay7
 #    step 3    #
 ################
 
-# step3.run('iowastateu')
-# step3.run('EhlersMitchell')
-# step3.run('FranzRinkleff')
-# step3.run('PrasanthVijay75')
+step3.run('iowastateu')
+step3.run('EhlersMitchell')
+step3.run('FranzRinkleff')
+step3.run('PrasanthVijay75')
 
 ################
 #  step 4 -5   #
@@ -46,6 +46,10 @@ step4.run('merged', screen_names)
 #    step 6    #
 ################
 
+# used the below cli command to get the number of nodes and edges for the merged graph
+# source for the grapninfo.gvpr script =>
+# https://stackoverflow.com/questions/28079686/graphviz-given-a-dot-file-how-to-compute-node-statistics
+# gvpr -f graphinfo.gvpr step4-merged-graphvis.gv => There are 4521 nodes and 4552 edges in merged
 
 
 

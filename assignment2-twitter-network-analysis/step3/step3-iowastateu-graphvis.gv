@@ -1,5 +1,5 @@
 // graph
-digraph {
+digraph iowastateu {
 	multitaskerchic [label=multitaskerchic]
 	FutureHealthLA [label=FutureHealthLA]
 	multitaskerchic -> FutureHealthLA

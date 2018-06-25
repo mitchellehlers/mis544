@@ -1,5 +1,5 @@
 // graph
-digraph {
+digraph FranzRinkleff {
 	GetInSTEM [label=GetInSTEM]
 	iinsingizi [label=iinsingizi]
 	GetInSTEM -> iinsingizi

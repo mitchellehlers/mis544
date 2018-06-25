@@ -1,5 +1,5 @@
 // graph
-digraph {
+digraph EhlersMitchell {
 	EhlersMitchell [label=EhlersMitchell]
 	sarah_zavoral [label=sarah_zavoral]
 	EhlersMitchell -> sarah_zavoral
