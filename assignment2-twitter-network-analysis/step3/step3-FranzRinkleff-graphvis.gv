@@ -1,6 +1,6 @@
 // graph
 digraph {
-	FranzRinkleff [label=GetInSTEM]
+	GetInSTEM [label=GetInSTEM]
 	iinsingizi [label=iinsingizi]
 	GetInSTEM -> iinsingizi
 	Thy94981028 [label=Thy94981028]
@@ -145,7 +145,7 @@ digraph {
 	GetInSTEM -> MMO_Rulz
 	codeappsweb [label=codeappsweb]
 	GetInSTEM -> codeappsweb
-	FranzRinkleff [label=Wilson_IBMCloud]
+	Wilson_IBMCloud [label=Wilson_IBMCloud]
 	fuckallofyouppl [label=fuckallofyouppl]
 	Wilson_IBMCloud -> fuckallofyouppl
 	vip_cyp [label=vip_cyp]
@@ -346,7 +346,7 @@ digraph {
 	Wilson_IBMCloud -> ernieschell
 	artifakt_io [label=artifakt_io]
 	Wilson_IBMCloud -> artifakt_io
-	FranzRinkleff [label=CsharpCorner]
+	CsharpCorner [label=CsharpCorner]
 	ayman9hd [label=ayman9hd]
 	CsharpCorner -> ayman9hd
 	Bob92973062 [label=Bob92973062]
@@ -547,7 +547,7 @@ digraph {
 	CsharpCorner -> Manishmunna12
 	Katie77725992 [label=Katie77725992]
 	CsharpCorner -> Katie77725992
-	FranzRinkleff [label=PrasanthVijay75]
+	PrasanthVijay75 [label=PrasanthVijay75]
 	JJMovingForward [label=JJMovingForward]
 	PrasanthVijay75 -> JJMovingForward
 	FranzRinkleff [label=FranzRinkleff]

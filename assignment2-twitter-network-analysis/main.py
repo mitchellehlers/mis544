@@ -5,6 +5,9 @@
 from tweepy import *
 import step2
 import step3
+import step4
+import json_utils
+import twitter_followers
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
@@ -21,17 +24,29 @@ api = API(auth, wait_on_rate_limit=True)
 ################
 
 # EhlersMitchell FranzRinkleff PrasanthVijay75 iowastateu
-# screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay75']
+screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay75']
 # step2.run(screen_names, api)
 
 ################
 #    step 3    #
 ################
 
-step3.generate_graphvis_pdf('iowastateu')
-step3.generate_graphvis_pdf('EhlersMitchell')
-step3.generate_graphvis_pdf('FranzRinkleff')
-step3.generate_graphvis_pdf('PrasanthVijay75')
+# step3.run('iowastateu')
+# step3.run('EhlersMitchell')
+# step3.run('FranzRinkleff')
+# step3.run('PrasanthVijay75')
+
+################
+#  step 4 -5   #
+################
+
+step4.run('merge', screen_names)
+
+################
+#    step 6    #
+################
+
+
 
 
 

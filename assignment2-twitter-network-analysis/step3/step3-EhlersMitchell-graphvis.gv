@@ -3,7 +3,7 @@ digraph {
 	EhlersMitchell [label=EhlersMitchell]
 	sarah_zavoral [label=sarah_zavoral]
 	EhlersMitchell -> sarah_zavoral
-	EhlersMitchell [label=sarah_zavoral]
+	sarah_zavoral [label=sarah_zavoral]
 	ParisKono [label=ParisKono]
 	sarah_zavoral -> ParisKono
 	HelissaMarmeyer [label=HelissaMarmeyer]

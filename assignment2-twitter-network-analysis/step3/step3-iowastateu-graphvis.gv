@@ -1,6 +1,6 @@
 // graph
 digraph {
-	iowastateu [label=multitaskerchic]
+	multitaskerchic [label=multitaskerchic]
 	FutureHealthLA [label=FutureHealthLA]
 	multitaskerchic -> FutureHealthLA
 	TjMarshawn_44 [label=TjMarshawn_44]
@@ -135,13 +135,13 @@ digraph {
 	multitaskerchic -> MissyHenning
 	jordansrecords [label=jordansrecords]
 	multitaskerchic -> jordansrecords
-	iowastateu [label=TraceyGatlin]
+	TraceyGatlin [label=TraceyGatlin]
 	UWMadisonLS [label=UWMadisonLS]
 	TraceyGatlin -> UWMadisonLS
 	atsgatlin [label=atsgatlin]
 	TraceyGatlin -> atsgatlin
-	iowastateu [label=MK_Irish]
-	iowastateu [label=erikafurbo]
+	MK_Irish [label=MK_Irish]
+	erikafurbo [label=erikafurbo]
 	JaguarGirlsXC [label=JaguarGirlsXC]
 	erikafurbo -> JaguarGirlsXC
 	laurelhoogensen [label=laurelhoogensen]
@@ -342,9 +342,9 @@ digraph {
 	erikafurbo -> willpace24
 	speakingofmani [label=speakingofmani]
 	erikafurbo -> speakingofmani
-	iowastateu [label=regan_gibbs]
-	iowastateu [label=goluch]
-	iowastateu [label=ryanbarie]
+	regan_gibbs [label=regan_gibbs]
+	goluch [label=goluch]
+	ryanbarie [label=ryanbarie]
 	LedBonham101 [label=LedBonham101]
 	ryanbarie -> LedBonham101
 	mopaswopr20 [label=mopaswopr20]
@@ -469,7 +469,7 @@ digraph {
 	ryanbarie -> JackForse
 	kjvrieze11 [label=kjvrieze11]
 	ryanbarie -> kjvrieze11
-	iowastateu [label="1wofgirl"]
+	"1wofgirl" [label="1wofgirl"]
 	JohnFiscian [label=JohnFiscian]
 	"1wofgirl" -> JohnFiscian
 	kendallbarbera [label=kendallbarbera]
@@ -524,7 +524,7 @@ digraph {
 	"1wofgirl" -> lookitsbenburch
 	mjschut [label=mjschut]
 	"1wofgirl" -> mjschut
-	iowastateu [label=RussellCPPolicy]
+	RussellCPPolicy [label=RussellCPPolicy]
 	chinaflag19 [label=chinaflag19]
 	RussellCPPolicy -> chinaflag19
 	Aculaser_Clinic [label=Aculaser_Clinic]
@@ -543,10 +543,10 @@ digraph {
 	RussellCPPolicy -> CerebralPolicy
 	CyberStormMacks [label=CyberStormMacks]
 	RussellCPPolicy -> CyberStormMacks
-	iowastateu [label=MurrayDAlex]
+	MurrayDAlex [label=MurrayDAlex]
 	kj_peters0n [label=kj_peters0n]
 	MurrayDAlex -> kj_peters0n
-	iowastateu [label=kgrimm07]
+	kgrimm07 [label=kgrimm07]
 	peloquinbeth [label=peloquinbeth]
 	kgrimm07 -> peloquinbeth
 	PcpPat [label=PcpPat]
@@ -597,7 +597,7 @@ digraph {
 	kgrimm07 -> dmlunde
 	loth_tracy [label=loth_tracy]
 	kgrimm07 -> loth_tracy
-	iowastateu [label=dcffachapter]
+	dcffachapter [label=dcffachapter]
 	Mikayla_Dolch [label=Mikayla_Dolch]
 	dcffachapter -> Mikayla_Dolch
 	MediapolisFFA [label=MediapolisFFA]
@@ -670,7 +670,7 @@ digraph {
 	dcffachapter -> lesliesullivanr
 	chelseyschnack [label=chelseyschnack]
 	dcffachapter -> chelseyschnack
-	iowastateu [label=jdbbbsmith]
+	jdbbbsmith [label=jdbbbsmith]
 	melissahipp [label=melissahipp]
 	jdbbbsmith -> melissahipp
 	breesmith011 [label=breesmith011]
@@ -689,7 +689,7 @@ digraph {
 	jdbbbsmith -> Hannaleeabel0
 	phightinphils [label=phightinphils]
 	jdbbbsmith -> phightinphils
-	iowastateu [label=virginiaemartin]
+	virginiaemartin [label=virginiaemartin]
 	love_promisefac [label=love_promisefac]
 	virginiaemartin -> love_promisefac
 	Itsworldfact5 [label=Itsworldfact5]
@@ -890,7 +890,7 @@ digraph {
 	virginiaemartin -> itsevenword
 	itslovedose8 [label=itslovedose8]
 	virginiaemartin -> itslovedose8
-	iowastateu [label=EStampp]
+	EStampp [label=EStampp]
 	RumenovGeorge [label=RumenovGeorge]
 	EStampp -> RumenovGeorge
 	JennyWadhwa1 [label=JennyWadhwa1]
@@ -1049,7 +1049,7 @@ digraph {
 	EStampp -> gretastaubly3
 	nihar_soman17 [label=nihar_soman17]
 	EStampp -> nihar_soman17
-	iowastateu [label=melissawh1]
+	melissawh1 [label=melissawh1]
 	lcowan_recruit [label=lcowan_recruit]
 	melissawh1 -> lcowan_recruit
 	jobs5806281201 [label=jobs5806281201]
@@ -1250,7 +1250,7 @@ digraph {
 	melissawh1 -> RecJuice
 	snazzy__boy [label=snazzy__boy]
 	melissawh1 -> snazzy__boy
-	iowastateu [label=Krysis_Kartik]
+	Krysis_Kartik [label=Krysis_Kartik]
 	lahotynilesh [label=lahotynilesh]
 	Krysis_Kartik -> lahotynilesh
 	EmilyBrannen2 [label=EmilyBrannen2]
@@ -1279,15 +1279,15 @@ digraph {
 	Krysis_Kartik -> Roadiesx3fan
 	KartikSarda1 [label=KartikSarda1]
 	Krysis_Kartik -> KartikSarda1
-	iowastateu [label=hunter_g15]
-	iowastateu [label=MacedoNubia]
+	hunter_g15 [label=hunter_g15]
+	MacedoNubia [label=MacedoNubia]
 	LookFeelGood1 [label=LookFeelGood1]
 	MacedoNubia -> LookFeelGood1
 	RomadonFatur [label=RomadonFatur]
 	MacedoNubia -> RomadonFatur
 	r_robertinha [label=r_robertinha]
 	MacedoNubia -> r_robertinha
-	iowastateu [label=leafgreenlps]
+	leafgreenlps [label=leafgreenlps]
 	KitoQ1 [label=KitoQ1]
 	leafgreenlps -> KitoQ1
 	Hypernovatix [label=Hypernovatix]
@@ -1322,7 +1322,7 @@ digraph {
 	leafgreenlps -> NuclearPvPEthan
 	XBLColin3283 [label=XBLColin3283]
 	leafgreenlps -> XBLColin3283
-	iowastateu [label=catsav]
+	catsav [label=catsav]
 	loveofJesus12 [label=loveofJesus12]
 	catsav -> loveofJesus12
 	mlopezme1 [label=mlopezme1]
@@ -1523,8 +1523,8 @@ digraph {
 	catsav -> ginidietrich
 	ChiArtMachine [label=ChiArtMachine]
 	catsav -> ChiArtMachine
-	iowastateu [label=chelceejolee]
-	iowastateu [label=CFAIOWA]
+	chelceejolee [label=chelceejolee]
+	CFAIOWA [label=CFAIOWA]
 	tykrom16 [label=tykrom16]
 	CFAIOWA -> tykrom16
 	DDGaddis [label=DDGaddis]
@@ -1725,8 +1725,8 @@ digraph {
 	CFAIOWA -> McWin13
 	maddeha_mahmoud [label=maddeha_mahmoud]
 	CFAIOWA -> maddeha_mahmoud
-	iowastateu [label=ejla28105944]
-	iowastateu [label=mosab85338501]
+	ejla28105944 [label=ejla28105944]
+	mosab85338501 [label=mosab85338501]
 	"5jFcfJXDhet9fxY" [label="5jFcfJXDhet9fxY"]
 	mosab85338501 -> "5jFcfJXDhet9fxY"
 	altraifi24 [label=altraifi24]
@@ -1735,8 +1735,8 @@ digraph {
 	mosab85338501 -> Mohammedtrend
 	softwaremperor [label=softwaremperor]
 	mosab85338501 -> softwaremperor
-	iowastateu [label=sarahbahl_]
-	iowastateu [label=cjedlicka26]
+	sarahbahl_ [label=sarahbahl_]
+	cjedlicka26 [label=cjedlicka26]
 	MontannaForcum [label=MontannaForcum]
 	cjedlicka26 -> MontannaForcum
 	sophiekussman [label=sophiekussman]
@@ -1787,7 +1787,7 @@ digraph {
 	cjedlicka26 -> akate_19
 	hunter_todd19 [label=hunter_todd19]
 	cjedlicka26 -> hunter_todd19
-	iowastateu [label=hannahschwich]
+	hannahschwich [label=hannahschwich]
 	annahansen100 [label=annahansen100]
 	hannahschwich -> annahansen100
 	erin_fidler24 [label=erin_fidler24]
@@ -1858,7 +1858,7 @@ digraph {
 	hannahschwich -> NayJesi
 	seanmichaelpeek [label=seanmichaelpeek]
 	hannahschwich -> seanmichaelpeek
-	iowastateu [label=zach_nugent17]
+	zach_nugent17 [label=zach_nugent17]
 	_katiedavidson [label=_katiedavidson]
 	zach_nugent17 -> _katiedavidson
 	wwigolf [label=wwigolf]
@@ -2059,7 +2059,7 @@ digraph {
 	zach_nugent17 -> ozmondb
 	stevenugent82 [label=stevenugent82]
 	zach_nugent17 -> stevenugent82
-	iowastateu [label=wenholzjackson]
+	wenholzjackson [label=wenholzjackson]
 	iiDonSouls [label=iiDonSouls]
 	wenholzjackson -> iiDonSouls
 	CJ2K01 [label=CJ2K01]
@@ -2260,9 +2260,9 @@ digraph {
 	wenholzjackson -> NicoleKBake
 	GabeMyren [label=GabeMyren]
 	wenholzjackson -> GabeMyren
-	iowastateu [label=EJMat17]
-	iowastateu [label=SallyPall66]
-	iowastateu [label=BMzaniya]
+	EJMat17 [label=EJMat17]
+	SallyPall66 [label=SallyPall66]
+	BMzaniya [label=BMzaniya]
 	StonersBibIe [label=StonersBibIe]
 	BMzaniya -> StonersBibIe
 	RealKingLewisTV [label=RealKingLewisTV]
@@ -2273,7 +2273,7 @@ digraph {
 	BMzaniya -> NMD_UltraBoost
 	Bluejstudio1 [label=Bluejstudio1]
 	BMzaniya -> Bluejstudio1
-	iowastateu [label=soccerrocks68]
+	soccerrocks68 [label=soccerrocks68]
 	BATsoccerMN [label=BATsoccerMN]
 	soccerrocks68 -> BATsoccerMN
 	VictoryviewsMN [label=VictoryviewsMN]
@@ -2304,7 +2304,7 @@ digraph {
 	soccerrocks68 -> proconnect9
 	golfnsoccer4fun [label=golfnsoccer4fun]
 	soccerrocks68 -> golfnsoccer4fun
-	iowastateu [label=HokuApps]
+	HokuApps [label=HokuApps]
 	capmaisonhotel [label=capmaisonhotel]
 	HokuApps -> capmaisonhotel
 	PrashantCAU [label=PrashantCAU]
@@ -2505,7 +2505,7 @@ digraph {
 	HokuApps -> AIDataScientist
 	emma_robotics [label=emma_robotics]
 	HokuApps -> emma_robotics
-	iowastateu [label=packerfan1973]
+	packerfan1973 [label=packerfan1973]
 	SpursFGSN [label=SpursFGSN]
 	packerfan1973 -> SpursFGSN
 	JanePDavidson [label=JanePDavidson]
@@ -2706,9 +2706,9 @@ digraph {
 	packerfan1973 -> OrlandoEducator
 	eyesopenedagain [label=eyesopenedagain]
 	packerfan1973 -> eyesopenedagain
-	iowastateu [label=Asheesh91727223]
-	iowastateu [label=trinna1968]
-	iowastateu [label=kylehoz]
+	Asheesh91727223 [label=Asheesh91727223]
+	trinna1968 [label=trinna1968]
+	kylehoz [label=kylehoz]
 	MoonteeK [label=MoonteeK]
 	kylehoz -> MoonteeK
 	Scholten4Iowa [label=Scholten4Iowa]
@@ -2909,7 +2909,7 @@ digraph {
 	kylehoz -> lechuga79
 	KDORR_USA [label=KDORR_USA]
 	kylehoz -> KDORR_USA
-	iowastateu [label=BurkhalterBlane]
+	BurkhalterBlane [label=BurkhalterBlane]
 	halladaballa [label=halladaballa]
 	BurkhalterBlane -> halladaballa
 	lexis_ann17 [label=lexis_ann17]
@@ -3048,7 +3048,7 @@ digraph {
 	BurkhalterBlane -> RJohnson1150
 	alecjar22 [label=alecjar22]
 	BurkhalterBlane -> alecjar22
-	iowastateu [label=SenatorBenson]
+	SenatorBenson [label=SenatorBenson]
 	littlaii [label=littlaii]
 	SenatorBenson -> littlaii
 	nevergiveup264 [label=nevergiveup264]
@@ -3249,7 +3249,7 @@ digraph {
 	SenatorBenson -> TLJones2018
 	inaroble [label=inaroble]
 	SenatorBenson -> inaroble
-	iowastateu [label=lilienthal_jake]
+	lilienthal_jake [label=lilienthal_jake]
 	dakota_lueken [label=dakota_lueken]
 	lilienthal_jake -> dakota_lueken
 	marshalldolch [label=marshalldolch]
@@ -3394,7 +3394,7 @@ digraph {
 	lilienthal_jake -> GMMac25
 	CooperRoyer [label=CooperRoyer]
 	lilienthal_jake -> CooperRoyer
-	iowastateu [label=ScottRegblue57]
+	ScottRegblue57 [label=ScottRegblue57]
 	ChrisDavidGill [label=ChrisDavidGill]
 	ScottRegblue57 -> ChrisDavidGill
 	martinrowepoet [label=martinrowepoet]
@@ -3461,7 +3461,7 @@ digraph {
 	ScottRegblue57 -> sherlinedavis
 	Susanrae77 [label=Susanrae77]
 	ScottRegblue57 -> Susanrae77
-	iowastateu [label=fmv_spidyy]
+	fmv_spidyy [label=fmv_spidyy]
 	Juanmi__MayBe [label=Juanmi__MayBe]
 	fmv_spidyy -> Juanmi__MayBe
 	CheneyMakayla [label=CheneyMakayla]
@@ -3662,8 +3662,8 @@ digraph {
 	fmv_spidyy -> AlbusRyan
 	_cutiewithbooty [label=_cutiewithbooty]
 	fmv_spidyy -> _cutiewithbooty
-	iowastateu [label=Rytn2u]
-	iowastateu [label=IAspicyitalian]
+	Rytn2u [label=Rytn2u]
+	IAspicyitalian [label=IAspicyitalian]
 	claycreative [label=claycreative]
 	IAspicyitalian -> claycreative
 	Byhizblood [label=Byhizblood]
@@ -3686,7 +3686,7 @@ digraph {
 	IAspicyitalian -> ChicagoCubsHQ
 	MartinTruex__Jr [label=MartinTruex__Jr]
 	IAspicyitalian -> MartinTruex__Jr
-	iowastateu [label=dino_pautzke]
+	dino_pautzke [label=dino_pautzke]
 	SercanAyhaan [label=SercanAyhaan]
 	dino_pautzke -> SercanAyhaan
 	ROHIT71GER [label=ROHIT71GER]
@@ -3699,7 +3699,7 @@ digraph {
 	dino_pautzke -> allyb40
 	pmpautzke [label=pmpautzke]
 	dino_pautzke -> pmpautzke
-	iowastateu [label=ARTi_char]
+	ARTi_char [label=ARTi_char]
 	CatalystEnergy [label=CatalystEnergy]
 	ARTi_char -> CatalystEnergy
 	buckrog123 [label=buckrog123]
@@ -3900,8 +3900,8 @@ digraph {
 	ARTi_char -> ByronBiochar
 	yugifernando [label=yugifernando]
 	ARTi_char -> yugifernando
-	iowastateu [label=schleicher_sara]
-	iowastateu [label=gcroco]
+	schleicher_sara [label=schleicher_sara]
+	gcroco [label=gcroco]
 	lifebitAI [label=lifebitAI]
 	gcroco -> lifebitAI
 	PhilippBayer [label=PhilippBayer]
@@ -4004,7 +4004,7 @@ digraph {
 	gcroco -> IWishPeopleSaid
 	vvCamryn0yck9 [label=vvCamryn0yck9]
 	gcroco -> vvCamryn0yck9
-	iowastateu [label=GeorgeFarner]
+	GeorgeFarner [label=GeorgeFarner]
 	peterdlenz [label=peterdlenz]
 	GeorgeFarner -> peterdlenz
 	RexSoulliere [label=RexSoulliere]
@@ -4205,8 +4205,8 @@ digraph {
 	GeorgeFarner -> adamjay35
 	Cole__OC [label=Cole__OC]
 	GeorgeFarner -> Cole__OC
-	iowastateu [label=KruseTedd]
-	iowastateu [label=lanawolf88]
+	KruseTedd [label=KruseTedd]
+	lanawolf88 [label=lanawolf88]
 	juliansamuels11 [label=juliansamuels11]
 	lanawolf88 -> juliansamuels11
 	_lizardwolf [label=_lizardwolf]
@@ -4243,7 +4243,7 @@ digraph {
 	lanawolf88 -> WillFerreII_
 	Jarnz1 [label=Jarnz1]
 	lanawolf88 -> Jarnz1
-	iowastateu [label=cgoluch]
+	cgoluch [label=cgoluch]
 	Joey_2C [label=Joey_2C]
 	cgoluch -> Joey_2C
 	HudsonTeach [label=HudsonTeach]
@@ -4376,8 +4376,8 @@ digraph {
 	cgoluch -> goluch
 	kayleegoluck [label=kayleegoluck]
 	cgoluch -> kayleegoluck
-	iowastateu [label=BowieHriana]
-	iowastateu [label=cole_tharp]
+	BowieHriana [label=BowieHriana]
+	cole_tharp [label=cole_tharp]
 	alba_ce25 [label=alba_ce25]
 	cole_tharp -> alba_ce25
 	jadennicole_03 [label=jadennicole_03]
@@ -4578,7 +4578,7 @@ digraph {
 	cole_tharp -> GL_Horst
 	antoninlbr [label=antoninlbr]
 	cole_tharp -> antoninlbr
-	iowastateu [label=PeytonKrauss]
+	PeytonKrauss [label=PeytonKrauss]
 	maegenn_14 [label=maegenn_14]
 	PeytonKrauss -> maegenn_14
 	LaNathan_Ball [label=LaNathan_Ball]
@@ -4779,7 +4779,7 @@ digraph {
 	PeytonKrauss -> Claire_mannaise
 	jaymeemarie07 [label=jaymeemarie07]
 	PeytonKrauss -> jaymeemarie07
-	iowastateu [label=JessGreiman]
+	JessGreiman [label=JessGreiman]
 	AztecFanSDSU [label=AztecFanSDSU]
 	JessGreiman -> AztecFanSDSU
 	AthleticDesires [label=AthleticDesires]
@@ -4868,7 +4868,7 @@ digraph {
 	JessGreiman -> KylieJanes
 	BriceFalls [label=BriceFalls]
 	JessGreiman -> BriceFalls
-	iowastateu [label=mannyvmp]
+	mannyvmp [label=mannyvmp]
 	USSLC1 [label=USSLC1]
 	mannyvmp -> USSLC1
 	erantonio1 [label=erantonio1]
@@ -4945,7 +4945,7 @@ digraph {
 	mannyvmp -> yamilperez23
 	geraldtas [label=geraldtas]
 	mannyvmp -> geraldtas
-	iowastateu [label=Alignex]
+	Alignex [label=Alignex]
 	EBMConst [label=EBMConst]
 	Alignex -> EBMConst
 	intellegojobs [label=intellegojobs]
@@ -5146,7 +5146,7 @@ digraph {
 	Alignex -> ashleyw1116
 	Cimtechsoftware [label=Cimtechsoftware]
 	Alignex -> Cimtechsoftware
-	iowastateu [label=Kim_Lockard]
+	Kim_Lockard [label=Kim_Lockard]
 	possiblykenny [label=possiblykenny]
 	Kim_Lockard -> possiblykenny
 	JohnBoyega9 [label=JohnBoyega9]
@@ -5253,7 +5253,7 @@ digraph {
 	Kim_Lockard -> eipinegar
 	WesternRebel13 [label=WesternRebel13]
 	Kim_Lockard -> WesternRebel13
-	iowastateu [label=triviest]
+	triviest [label=triviest]
 	myacinedz [label=myacinedz]
 	triviest -> myacinedz
 	Xanhazza7 [label=Xanhazza7]
@@ -5282,7 +5282,7 @@ digraph {
 	triviest -> RayWJ
 	IiLohman [label=IiLohman]
 	triviest -> IiLohman
-	iowastateu [label=BormannBrent]
+	BormannBrent [label=BormannBrent]
 	DTcrete [label=DTcrete]
 	BormannBrent -> DTcrete
 	smidt_ryan [label=smidt_ryan]
@@ -5313,7 +5313,7 @@ digraph {
 	BormannBrent -> c_bormann
 	IntoTheNightIC [label=IntoTheNightIC]
 	BormannBrent -> IntoTheNightIC
-	iowastateu [label=brookew345]
+	brookew345 [label=brookew345]
 	intakeinhale [label=intakeinhale]
 	brookew345 -> intakeinhale
 	ninaaaaaaaaah [label=ninaaaaaaaaah]
@@ -5336,7 +5336,7 @@ digraph {
 	brookew345 -> _adeberg
 	mags994 [label=mags994]
 	brookew345 -> mags994
-	iowastateu [label=otunbafemmy]
+	otunbafemmy [label=otunbafemmy]
 	Omaxwell13 [label=Omaxwell13]
 	otunbafemmy -> Omaxwell13
 	IBKLeads [label=IBKLeads]
@@ -5537,7 +5537,7 @@ digraph {
 	otunbafemmy -> JeffreyHayzlett
 	tunreshy [label=tunreshy]
 	otunbafemmy -> tunreshy
-	iowastateu [label=CamrynRussell9]
+	CamrynRussell9 [label=CamrynRussell9]
 	kaaitsmith1 [label=kaaitsmith1]
 	CamrynRussell9 -> kaaitsmith1
 	spncrmg [label=spncrmg]
@@ -5738,7 +5738,7 @@ digraph {
 	CamrynRussell9 -> Garringer550
 	gage_gunderson [label=gage_gunderson]
 	CamrynRussell9 -> gage_gunderson
-	iowastateu [label=BiretzKaytlynn]
+	BiretzKaytlynn [label=BiretzKaytlynn]
 	lauraproper [label=lauraproper]
 	BiretzKaytlynn -> lauraproper
 	heavenlyhollowb [label=heavenlyhollowb]
@@ -5787,7 +5787,7 @@ digraph {
 	BiretzKaytlynn -> Richard09049140
 	Jasmine_W_M [label=Jasmine_W_M]
 	BiretzKaytlynn -> Jasmine_W_M
-	iowastateu [label=nivekodriscoll]
+	nivekodriscoll [label=nivekodriscoll]
 	toriipricee [label=toriipricee]
 	nivekodriscoll -> toriipricee
 	ImJustBetterDUH [label=ImJustBetterDUH]
@@ -5860,7 +5860,7 @@ digraph {
 	nivekodriscoll -> anburke23
 	_Make_It_RAYNE [label=_Make_It_RAYNE]
 	nivekodriscoll -> _Make_It_RAYNE
-	iowastateu [label=JenCrispNOLA]
+	JenCrispNOLA [label=JenCrispNOLA]
 	JimRemetich [label=JimRemetich]
 	JenCrispNOLA -> JimRemetich
 	TommyF1980 [label=TommyF1980]
@@ -5893,8 +5893,8 @@ digraph {
 	JenCrispNOLA -> u2girl1966
 	caroline_crisp [label=caroline_crisp]
 	JenCrispNOLA -> caroline_crisp
-	iowastateu [label=ThapeloTwitch]
-	iowastateu [label=shelby_murr]
+	ThapeloTwitch [label=ThapeloTwitch]
+	shelby_murr [label=shelby_murr]
 	DAZAH_T [label=DAZAH_T]
 	shelby_murr -> DAZAH_T
 	mckenzie_coyle4 [label=mckenzie_coyle4]
@@ -5919,10 +5919,10 @@ digraph {
 	shelby_murr -> nicolasjucaed
 	Sturgee14 [label=Sturgee14]
 	shelby_murr -> Sturgee14
-	iowastateu [label=PegGriffith6]
-	iowastateu [label=DllnHpwdDsgns]
-	iowastateu [label=Cattrione]
-	iowastateu [label=OgahMichael6]
+	PegGriffith6 [label=PegGriffith6]
+	DllnHpwdDsgns [label=DllnHpwdDsgns]
+	Cattrione [label=Cattrione]
+	OgahMichael6 [label=OgahMichael6]
 	MadafaWebHost [label=MadafaWebHost]
 	OgahMichael6 -> MadafaWebHost
 	Omowarejoy [label=Omowarejoy]
@@ -5949,8 +5949,8 @@ digraph {
 	OgahMichael6 -> OlatundeNaani
 	DerronEShort [label=DerronEShort]
 	OgahMichael6 -> DerronEShort
-	iowastateu [label=Jkm43870536]
-	iowastateu [label=IsaacLucy3]
+	Jkm43870536 [label=Jkm43870536]
+	IsaacLucy3 [label=IsaacLucy3]
 	MelindaLucy8 [label=MelindaLucy8]
 	IsaacLucy3 -> MelindaLucy8
 	JustinWrightj [label=JustinWrightj]
@@ -5983,8 +5983,8 @@ digraph {
 	IsaacLucy3 -> DirkLucy
 	Camilogoquin [label=Camilogoquin]
 	IsaacLucy3 -> Camilogoquin
-	iowastateu [label=katieolszewski]
-	iowastateu [label=ODogCrabtree]
+	katieolszewski [label=katieolszewski]
+	ODogCrabtree [label=ODogCrabtree]
 	Corapusa [label=Corapusa]
 	ODogCrabtree -> Corapusa
 	ArtIntel_Plow [label=ArtIntel_Plow]
@@ -6061,7 +6061,7 @@ digraph {
 	ODogCrabtree -> Mr_Colio
 	torbertreece [label=torbertreece]
 	ODogCrabtree -> torbertreece
-	iowastateu [label=_AnaxOG]
+	_AnaxOG [label=_AnaxOG]
 	Im_xPolar [label=Im_xPolar]
 	_AnaxOG -> Im_xPolar
 	BearStrength [label=BearStrength]
@@ -6262,7 +6262,7 @@ digraph {
 	_AnaxOG -> LFK_Clan
 	IndustryIvy [label=IndustryIvy]
 	_AnaxOG -> IndustryIvy
-	iowastateu [label=Aerospace1978]
+	Aerospace1978 [label=Aerospace1978]
 	Survols [label=Survols]
 	Aerospace1978 -> Survols
 	HaroldSinnott [label=HaroldSinnott]
@@ -6463,7 +6463,7 @@ digraph {
 	Aerospace1978 -> Pelesys
 	L3WESCAM [label=L3WESCAM]
 	Aerospace1978 -> L3WESCAM
-	iowastateu [label=yolandaxx_]
+	yolandaxx_ [label=yolandaxx_]
 	mendozaa1307 [label=mendozaa1307]
 	yolandaxx_ -> mendozaa1307
 	lauraguzzz [label=lauraguzzz]
@@ -6664,7 +6664,7 @@ digraph {
 	yolandaxx_ -> custompapers202
 	belizean_boyyy [label=belizean_boyyy]
 	yolandaxx_ -> belizean_boyyy
-	iowastateu [label=Katki702]
+	Katki702 [label=Katki702]
 	empiremadx [label=empiremadx]
 	Katki702 -> empiremadx
 	iPhoneShopUk [label=iPhoneShopUk]
@@ -6703,7 +6703,7 @@ digraph {
 	Katki702 -> MikeVanDervort
 	RyanEstis [label=RyanEstis]
 	Katki702 -> RyanEstis
-	iowastateu [label=ncarlone2]
+	ncarlone2 [label=ncarlone2]
 	cyclonedaily [label=cyclonedaily]
 	ncarlone2 -> cyclonedaily
 	Jack_Consi [label=Jack_Consi]
@@ -6780,14 +6780,14 @@ digraph {
 	ncarlone2 -> j_orwig0
 	megalliefish [label=megalliefish]
 	ncarlone2 -> megalliefish
-	iowastateu [label=JGasparaitis]
+	JGasparaitis [label=JGasparaitis]
 	PhyllisBrockman [label=PhyllisBrockman]
 	JGasparaitis -> PhyllisBrockman
 	mvalenzio [label=mvalenzio]
 	JGasparaitis -> mvalenzio
 	KevinKemp6 [label=KevinKemp6]
 	JGasparaitis -> KevinKemp6
-	iowastateu [label=vikrantsant]
+	vikrantsant [label=vikrantsant]
 	alphamalebp [label=alphamalebp]
 	vikrantsant -> alphamalebp
 	guru_grewal [label=guru_grewal]
@@ -6822,7 +6822,7 @@ digraph {
 	vikrantsant -> BrainBalanceUT
 	sarang18_oak [label=sarang18_oak]
 	vikrantsant -> sarang18_oak
-	iowastateu [label=AliHonnold]
+	AliHonnold [label=AliHonnold]
 	"4SpencerW" [label="4SpencerW"]
 	AliHonnold -> "4SpencerW"
 	mak_swizzle [label=mak_swizzle]
@@ -7023,12 +7023,12 @@ digraph {
 	AliHonnold -> FemaleWorId
 	she_wasthe_one [label=she_wasthe_one]
 	AliHonnold -> she_wasthe_one
-	iowastateu [label=dswan04_dale]
+	dswan04_dale [label=dswan04_dale]
 	SujoSwan [label=SujoSwan]
 	dswan04_dale -> SujoSwan
 	irenegarcia73 [label=irenegarcia73]
 	dswan04_dale -> irenegarcia73
-	iowastateu [label=sjhlfc]
+	sjhlfc [label=sjhlfc]
 	UlrichJvV [label=UlrichJvV]
 	sjhlfc -> UlrichJvV
 	dennis0805a [label=dennis0805a]
@@ -7430,9 +7430,9 @@ digraph {
 	iowastateu -> J_Risen
 	TraceyGatlin [label=TraceyGatlin]
 	iowastateu -> TraceyGatlin
-	iowastateu [label=tmiller15309]
-	iowastateu [label=Christop_76]
-	iowastateu [label=_GabrieLives]
+	tmiller15309 [label=tmiller15309]
+	Christop_76 [label=Christop_76]
+	_GabrieLives [label=_GabrieLives]
 	gearsmartshop [label=gearsmartshop]
 	_GabrieLives -> gearsmartshop
 	starts40991754 [label=starts40991754]
@@ -7633,9 +7633,9 @@ digraph {
 	_GabrieLives -> magical_llama4
 	Ashiah_Rising [label=Ashiah_Rising]
 	_GabrieLives -> Ashiah_Rising
-	iowastateu [label=J_Risen]
-	iowastateu [label=Aquariu66719813]
-	iowastateu [label=jjchandler31]
+	J_Risen [label=J_Risen]
+	Aquariu66719813 [label=Aquariu66719813]
+	jjchandler31 [label=jjchandler31]
 	GreggAndler [label=GreggAndler]
 	jjchandler31 -> GreggAndler
 	trstn_f [label=trstn_f]
@@ -7728,10 +7728,10 @@ digraph {
 	jjchandler31 -> boylesjm
 	RealSportsGuys [label=RealSportsGuys]
 	jjchandler31 -> RealSportsGuys
-	iowastateu [label=MarkWil78747109]
+	MarkWil78747109 [label=MarkWil78747109]
 	SportsNewsBk [label=SportsNewsBk]
 	MarkWil78747109 -> SportsNewsBk
-	iowastateu [label=SFanningISU]
+	SFanningISU [label=SFanningISU]
 	mcommunicate [label=mcommunicate]
 	SFanningISU -> mcommunicate
 	WriteNThrive [label=WriteNThrive]
@@ -7894,7 +7894,7 @@ digraph {
 	SFanningISU -> PintsNCupcakes
 	jill_grauman [label=jill_grauman]
 	SFanningISU -> jill_grauman
-	iowastateu [label=idaira_]
+	idaira_ [label=idaira_]
 	_MiguelMesa_ [label=_MiguelMesa_]
 	idaira_ -> _MiguelMesa_
 	CrisMorales7_ [label=CrisMorales7_]
@@ -8095,7 +8095,7 @@ digraph {
 	idaira_ -> kadacil
 	budutenerife [label=budutenerife]
 	idaira_ -> budutenerife
-	iowastateu [label=tcshipman18]
+	tcshipman18 [label=tcshipman18]
 	TJMille75768853 [label=TJMille75768853]
 	tcshipman18 -> TJMille75768853
 	maggiecoonce2 [label=maggiecoonce2]
@@ -8296,7 +8296,7 @@ digraph {
 	tcshipman18 -> shayna_torres17
 	right_AMERICA_ [label=right_AMERICA_]
 	tcshipman18 -> right_AMERICA_
-	iowastateu [label=mje6698]
+	mje6698 [label=mje6698]
 	TomBensenAMS [label=TomBensenAMS]
 	mje6698 -> TomBensenAMS
 	hloken [label=hloken]

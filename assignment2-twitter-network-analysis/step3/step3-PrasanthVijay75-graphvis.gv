@@ -1,6 +1,6 @@
 // graph
 digraph {
-	PrasanthVijay75 [label=JJMovingForward]
+	JJMovingForward [label=JJMovingForward]
 	AbbyEGB [label=AbbyEGB]
 	JJMovingForward -> AbbyEGB
 	LPassolano [label=LPassolano]
