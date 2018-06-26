@@ -11,6 +11,7 @@ def run(graph_name, screen_names, step='step4'):
         graph = json_utils.read(file_name)
         merged_graph = twitter_followers.merge_two_graphs(graph, merged_graph)
 
+    json_utils.write(step+"/"+graph_name+".json", merged_graph)
     step3.generate_graphvis_pdf(merged_graph, graph_name, step)
 
 
