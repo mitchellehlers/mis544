@@ -6,9 +6,9 @@ from tweepy import *
 import step2
 import step3
 import step4
+import step7
 import json_utils
 import twitter_followers
-import snap
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
@@ -41,7 +41,7 @@ screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay7
 #  step 4 -5   #
 ################
 
-step4.run('merged-graph', screen_names)
+#step4.run('merged-graph', screen_names)
 
 ################
 #    step 6    #
@@ -56,7 +56,22 @@ step4.run('merged-graph', screen_names)
 #    step 7    #
 ################
 
-#build snappy graph
+step7.run("step4/merged-graph.json")
+
+# snap graph clustering coefficient
+# nodes count = 4521
+# edges count = 4550
+# Clustering coefficient: 0.000221
+# Clustering coefficient is low. This indicates a very low probability two of a users followers share
+# the same follower. I my opinion this is low because myself and my team members are not heavy Twitter users.
+# So we don't have many followers, limiting the chance our networks would share many edges.
+# https://snap.stanford.edu/snappy/doc/reference/GetClustCf.html
+# https://networkscience.wordpress.com/2013/09/08/defining-the-clustering-coefficient/
+
+################
+#    step 8    #
+################
+
 
 
 
