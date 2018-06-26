@@ -1,6 +1,7 @@
 import snap
 import json_utils
 
+hash_to_screen_name_map = {}
 
 def run(graph_file):
     merged_graph = json_utils.read(graph_file)
@@ -33,7 +34,19 @@ def run(graph_file):
     cluster_coeff = snap.GetClustCf(snap_graph, -1)
     print "Clustering coefficient: %f" % cluster_coeff
 
+    return snap_graph
+
+
+def get_screen_name_from_hash(hash_value):
+    return hash_to_screen_name_map[hash_value]
+
 
 def hash_screen_name(s):
-    return abs(hash(s)) % (10 ** 8)
+    # creating a hash but limited to positive values only and limiting the length of the hash to 8 digits
+    # used a a unique id for a screen_name
+    hash_value = abs(hash(s)) % (10 ** 8)
+    hash_to_screen_name_map[hash_value] = str(s)
+    return hash_value
+
+
 

@@ -1,14 +1,11 @@
 #!/bin/python
 
-# http://www.nirg.net/using-tweepy.html
-
 from tweepy import *
 import step2
 import step3
 import step4
 import step7
-import json_utils
-import twitter_followers
+import step8
 
 CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
@@ -26,22 +23,28 @@ api = API(auth, wait_on_rate_limit=True)
 
 # EhlersMitchell FranzRinkleff PrasanthVijay75 iowastateu
 screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay75']
+
+# this takes a very long time to run due to Twitter api throttle limits.
+# you can only make 180 request per 15min. Due to this IowaState took ~24 hours to get all the followers
+# This code is commented out for this reason, we save all the data in json files using a Python Dictionary
+# as a adjacency list, and these files are used to every other step. Commenting step2 for this reason.
+
 # step2.run(screen_names, api)
 
 ################
 #    step 3    #
 ################
 
-# step3.run('iowastateu')
-# step3.run('EhlersMitchell')
-# step3.run('FranzRinkleff')
-# step3.run('PrasanthVijay75')
+step3.run('iowastateu')
+step3.run('EhlersMitchell')
+step3.run('FranzRinkleff')
+step3.run('PrasanthVijay75')
 
 ################
 #  step 4 -5   #
 ################
 
-#step4.run('merged-graph', screen_names)
+step4.run('merged-graph', screen_names)
 
 ################
 #    step 6    #
@@ -56,7 +59,7 @@ screen_names = ['iowastateu', 'EhlersMitchell', 'FranzRinkleff', 'PrasanthVijay7
 #    step 7    #
 ################
 
-step7.run("step4/merged-graph.json")
+snap_graph = step7.run("step4/merged-graph.json")
 
 # snap graph clustering coefficient
 # nodes count = 4521
@@ -71,6 +74,21 @@ step7.run("step4/merged-graph.json")
 ################
 #    step 8    #
 ################
+
+step8.run(snap_graph)
+
+# Top 10 page ranks from the merged graph =>
+# JJMovingForward 0.000442008655522
+# SportsNewsBk 0.000404251820609
+# sarah_zavoral 0.000402678619155
+# irenegarcia73 0.00031095700719
+# KevinKemp6 0.00027985873605
+# softwaremperor 0.00026430960048
+# Wilson_IBMCloud 0.000263916300117
+# Bluejstudio1 0.000254980119138
+# pmpautzke 0.00024876046491
+# phightinphils 0.00023839437453
+
 
 
 
