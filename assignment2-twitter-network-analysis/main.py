@@ -89,6 +89,12 @@ step8.run(snap_graph)
 # pmpautzke 0.00024876046491
 # phightinphils 0.00023839437453
 
+# x <= y (what I mean by this is y follows x), a => b (this means a follows b)
+# EhlersMitchell <= sarah_zavoral => cyclonedaily <= ncarlone2 => iowastateu
+#
+# I also found a path including both of you to iowastateu ...
+# iowastateu => sjhlfc => jasonagastrich <= virginiaemartin <= AmoursHideous <= Wilson_IBMCloud <= FranzRinkleff => PrasanthVijay75
+
 
 
 
