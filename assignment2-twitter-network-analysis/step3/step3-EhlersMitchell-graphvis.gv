@@ -104,4 +104,5 @@ digraph EhlersMitchell {
 	sarah_zavoral -> Jill_Isley
 	kausborn [label=kausborn]
 	sarah_zavoral -> kausborn
+	rankdir=LR size="75,50"
 }

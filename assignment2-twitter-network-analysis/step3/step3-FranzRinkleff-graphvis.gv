@@ -559,4 +559,5 @@ digraph FranzRinkleff {
 	FranzRinkleff -> CsharpCorner
 	Wilson_IBMCloud [label=Wilson_IBMCloud]
 	FranzRinkleff -> Wilson_IBMCloud
+	rankdir=LR size="75,50"
 }

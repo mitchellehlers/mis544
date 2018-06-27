@@ -9213,4 +9213,5 @@ digraph "merged-graph" {
 	GetInSTEM -> MMO_Rulz
 	codeappsweb [label=codeappsweb]
 	GetInSTEM -> codeappsweb
+	rankdir=LR size="75,50"
 }

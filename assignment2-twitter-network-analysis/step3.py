@@ -21,6 +21,8 @@ def generate_graphvis_pdf(graph, graphvis_name, step='step3'):
             dot.node(follower, follower)
             dot.edge(next_screen_name, follower)
 
+    # setting graph to be written to PDF in a vertical fashion
+    dot.attr(rankdir='LR', size='75,50')
     dot.render(get_graphvis_file_name(graphvis_name, step), view=True)
 
 

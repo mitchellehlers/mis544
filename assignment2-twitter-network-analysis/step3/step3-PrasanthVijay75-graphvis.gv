@@ -204,4 +204,5 @@ digraph PrasanthVijay75 {
 	PrasanthVijay75 [label=PrasanthVijay75]
 	JJMovingForward [label=JJMovingForward]
 	PrasanthVijay75 -> JJMovingForward
+	rankdir=LR size="75,50"
 }

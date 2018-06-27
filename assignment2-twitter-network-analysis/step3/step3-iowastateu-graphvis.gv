@@ -8349,4 +8349,5 @@ digraph iowastateu {
 	mje6698 -> jessayer
 	AngelaMoulton [label=AngelaMoulton]
 	mje6698 -> AngelaMoulton
+	rankdir=LR size="75,50"
 }
